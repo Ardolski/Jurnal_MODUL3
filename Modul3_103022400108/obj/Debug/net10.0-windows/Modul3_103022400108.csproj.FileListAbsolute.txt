@@ -1,0 +1,17 @@
+C:\Users\Ardi setya permana\Documents\Tugas\projek kpl tugas tp\Modul3_103022400108\Modul3_103022400108\bin\Debug\net10.0-windows\Modul3_103022400108.exe
+C:\Users\Ardi setya permana\Documents\Tugas\projek kpl tugas tp\Modul3_103022400108\Modul3_103022400108\bin\Debug\net10.0-windows\Modul3_103022400108.deps.json
+C:\Users\Ardi setya permana\Documents\Tugas\projek kpl tugas tp\Modul3_103022400108\Modul3_103022400108\bin\Debug\net10.0-windows\Modul3_103022400108.runtimeconfig.json
+C:\Users\Ardi setya permana\Documents\Tugas\projek kpl tugas tp\Modul3_103022400108\Modul3_103022400108\bin\Debug\net10.0-windows\Modul3_103022400108.dll
+C:\Users\Ardi setya permana\Documents\Tugas\projek kpl tugas tp\Modul3_103022400108\Modul3_103022400108\bin\Debug\net10.0-windows\Modul3_103022400108.pdb
+C:\Users\Ardi setya permana\Documents\Tugas\projek kpl tugas tp\Modul3_103022400108\Modul3_103022400108\obj\Debug\net10.0-windows\Modul3_103022400108.Form1.resources
+C:\Users\Ardi setya permana\Documents\Tugas\projek kpl tugas tp\Modul3_103022400108\Modul3_103022400108\obj\Debug\net10.0-windows\Modul3_103022400108.csproj.GenerateResource.cache
+C:\Users\Ardi setya permana\Documents\Tugas\projek kpl tugas tp\Modul3_103022400108\Modul3_103022400108\obj\Debug\net10.0-windows\Modul3_103022400108.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ardi setya permana\Documents\Tugas\projek kpl tugas tp\Modul3_103022400108\Modul3_103022400108\obj\Debug\net10.0-windows\Modul3_103022400108.AssemblyInfoInputs.cache
+C:\Users\Ardi setya permana\Documents\Tugas\projek kpl tugas tp\Modul3_103022400108\Modul3_103022400108\obj\Debug\net10.0-windows\Modul3_103022400108.AssemblyInfo.cs
+C:\Users\Ardi setya permana\Documents\Tugas\projek kpl tugas tp\Modul3_103022400108\Modul3_103022400108\obj\Debug\net10.0-windows\Modul3_103022400108.csproj.CoreCompileInputs.cache
+C:\Users\Ardi setya permana\Documents\Tugas\projek kpl tugas tp\Modul3_103022400108\Modul3_103022400108\obj\Debug\net10.0-windows\Modul3_103022400108.dll
+C:\Users\Ardi setya permana\Documents\Tugas\projek kpl tugas tp\Modul3_103022400108\Modul3_103022400108\obj\Debug\net10.0-windows\refint\Modul3_103022400108.dll
+C:\Users\Ardi setya permana\Documents\Tugas\projek kpl tugas tp\Modul3_103022400108\Modul3_103022400108\obj\Debug\net10.0-windows\Modul3_103022400108.pdb
+C:\Users\Ardi setya permana\Documents\Tugas\projek kpl tugas tp\Modul3_103022400108\Modul3_103022400108\obj\Debug\net10.0-windows\Modul3_103022400108.genruntimeconfig.cache
+C:\Users\Ardi setya permana\Documents\Tugas\projek kpl tugas tp\Modul3_103022400108\Modul3_103022400108\obj\Debug\net10.0-windows\ref\Modul3_103022400108.dll
+C:\Users\Ardi setya permana\Documents\Tugas\projek kpl tugas tp\Modul3_103022400108\Modul3_103022400108\obj\Debug\net10.0-windows\Modul3_103022400108.sourcelink.json
