@@ -30,42 +30,34 @@
         {
             comboBox1 = new ComboBox();
             comboBox2 = new ComboBox();
-            label1 = new Label();
             label2 = new Label();
             textBox1 = new TextBox();
             label3 = new Label();
             label4 = new Label();
             textBox2 = new TextBox();
             button1 = new Button();
+            label5 = new Label();
             SuspendLayout();
             // 
             // comboBox1
             // 
             comboBox1.FormattingEnabled = true;
-            comboBox1.Items.AddRange(new object[] { "Celcius", "fahrenheit", "kelvin", "reamur" });
+            comboBox1.Items.AddRange(new object[] { "Celcius", "Fahrenheit", "Kelvin", "Reamur" });
             comboBox1.Location = new Point(136, 61);
             comboBox1.Name = "comboBox1";
             comboBox1.Size = new Size(151, 28);
             comboBox1.TabIndex = 0;
+            comboBox1.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
             // 
             // comboBox2
             // 
             comboBox2.FormattingEnabled = true;
-            comboBox2.Items.AddRange(new object[] { "celcius", "fahrenheit", "kelvin", "reamur" });
+            comboBox2.Items.AddRange(new object[] { "Celcius", "Fahrenheit", "Kelvin", "Reamur" });
             comboBox2.Location = new Point(136, 150);
             comboBox2.Name = "comboBox2";
             comboBox2.Size = new Size(151, 28);
             comboBox2.TabIndex = 1;
-            // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.Location = new Point(136, 23);
-            label1.Name = "label1";
-            label1.Size = new Size(87, 20);
-            label1.TabIndex = 2;
-            label1.Text = "satuan awal";
-            label1.Click += label1_Click_1;
+            comboBox2.SelectedIndexChanged += comboBox2_SelectedIndexChanged;
             // 
             // label2
             // 
@@ -82,6 +74,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(125, 27);
             textBox1.TabIndex = 4;
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // label3
             // 
@@ -107,6 +100,7 @@
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(125, 27);
             textBox2.TabIndex = 7;
+            textBox2.TextChanged += textBox2_TextChanged;
             // 
             // button1
             // 
@@ -116,19 +110,29 @@
             button1.TabIndex = 8;
             button1.Text = "Convert";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Location = new Point(135, 22);
+            label5.Name = "label5";
+            label5.Size = new Size(87, 20);
+            label5.TabIndex = 9;
+            label5.Text = "satuan awal";
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(label5);
             Controls.Add(button1);
             Controls.Add(textBox2);
             Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(textBox1);
             Controls.Add(label2);
-            Controls.Add(label1);
             Controls.Add(comboBox2);
             Controls.Add(comboBox1);
             Name = "Form1";
@@ -148,5 +152,6 @@
         private Label label4;
         private TextBox textBox2;
         private Button button1;
+        private Label label5;
     }
 }

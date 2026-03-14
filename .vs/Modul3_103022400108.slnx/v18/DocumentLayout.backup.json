@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Ardi setya permana\\Documents\\Tugas\\projek kpl tugas tp\\Modul3_103022400108\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F13C2EF-38EA-9072-77CA-23901DC23212}|Modul3_103022400108\\Modul3_103022400108.csproj|c:\\users\\ardi setya permana\\documents\\tugas\\projek kpl tugas tp\\modul3_103022400108\\modul3_103022400108\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F13C2EF-38EA-9072-77CA-23901DC23212}|Modul3_103022400108\\Modul3_103022400108.csproj|solutionrelative:modul3_103022400108\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F13C2EF-38EA-9072-77CA-23901DC23212}|Modul3_103022400108\\Modul3_103022400108.csproj|c:\\users\\ardi setya permana\\documents\\tugas\\projek kpl tugas tp\\modul3_103022400108\\modul3_103022400108\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F13C2EF-38EA-9072-77CA-23901DC23212}|Modul3_103022400108\\Modul3_103022400108.csproj|solutionrelative:modul3_103022400108\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F13C2EF-38EA-9072-77CA-23901DC23212}|Modul3_103022400108\\Modul3_103022400108.csproj|C:\\Users\\Ardi setya permana\\Documents\\Tugas\\projek kpl tugas tp\\Modul3_103022400108\\modul3_103022400108\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F13C2EF-38EA-9072-77CA-23901DC23212}|Modul3_103022400108\\Modul3_103022400108.csproj|solutionrelative:modul3_103022400108\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Ardi setya permana\\Documents\\Tugas\\projek kpl tugas tp\\Modul3_103022400108\\Modul3_103022400108\\Form1.cs",
               "RelativeDocumentMoniker": "Modul3_103022400108\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ardi setya permana\\Documents\\Tugas\\projek kpl tugas tp\\Modul3_103022400108\\Modul3_103022400108\\Form1.cs*",
-              "RelativeToolTip": "Modul3_103022400108\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Ardi setya permana\\Documents\\Tugas\\projek kpl tugas tp\\Modul3_103022400108\\Modul3_103022400108\\Form1.cs",
+              "RelativeToolTip": "Modul3_103022400108\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-14T06:59:20.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Ardi setya permana\\Documents\\Tugas\\projek kpl tugas tp\\Modul3_103022400108\\Modul3_103022400108\\Form1.cs",
               "RelativeDocumentMoniker": "Modul3_103022400108\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ardi setya permana\\Documents\\Tugas\\projek kpl tugas tp\\Modul3_103022400108\\Modul3_103022400108\\Form1.cs [Design]*",
-              "RelativeToolTip": "Modul3_103022400108\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\Ardi setya permana\\Documents\\Tugas\\projek kpl tugas tp\\Modul3_103022400108\\Modul3_103022400108\\Form1.cs [Design]",
+              "RelativeToolTip": "Modul3_103022400108\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-14T06:44:38.629Z",
               "EditorCaption": " [Design]"
